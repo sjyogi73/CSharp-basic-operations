@@ -1,0 +1,14 @@
+D:\22pca004 C# lab\Lab Programs\Realnum_2\bin\Debug\Realnum_2.exe.config
+D:\22pca004 C# lab\Lab Programs\Realnum_2\bin\Debug\Realnum_2.exe
+D:\22pca004 C# lab\Lab Programs\Realnum_2\bin\Debug\Realnum_2.pdb
+D:\22pca004 C# lab\Lab Programs\Realnum_2\obj\Debug\Realnum_2.csproj.AssemblyReference.cache
+D:\22pca004 C# lab\Lab Programs\Realnum_2\obj\Debug\Realnum_2.csproj.CoreCompileInputs.cache
+D:\22pca004 C# lab\Lab Programs\Realnum_2\obj\Debug\Realnum_2.exe
+D:\22pca004 C# lab\Lab Programs\Realnum_2\obj\Debug\Realnum_2.pdb
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Realnum_2\bin\Debug\Realnum_2.exe.config
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Realnum_2\bin\Debug\Realnum_2.exe
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Realnum_2\bin\Debug\Realnum_2.pdb
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Realnum_2\obj\Debug\Realnum_2.csproj.AssemblyReference.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Realnum_2\obj\Debug\Realnum_2.csproj.CoreCompileInputs.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Realnum_2\obj\Debug\Realnum_2.exe
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Realnum_2\obj\Debug\Realnum_2.pdb

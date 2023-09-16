@@ -1,0 +1,14 @@
+D:\22pca004 C# lab\Lab Programs\jagged_array_6\bin\Debug\jagged_array_6.exe.config
+D:\22pca004 C# lab\Lab Programs\jagged_array_6\bin\Debug\jagged_array_6.exe
+D:\22pca004 C# lab\Lab Programs\jagged_array_6\bin\Debug\jagged_array_6.pdb
+D:\22pca004 C# lab\Lab Programs\jagged_array_6\obj\Debug\jagged_array_6.csproj.AssemblyReference.cache
+D:\22pca004 C# lab\Lab Programs\jagged_array_6\obj\Debug\jagged_array_6.csproj.CoreCompileInputs.cache
+D:\22pca004 C# lab\Lab Programs\jagged_array_6\obj\Debug\jagged_array_6.exe
+D:\22pca004 C# lab\Lab Programs\jagged_array_6\obj\Debug\jagged_array_6.pdb
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\jagged_array_6\bin\Debug\jagged_array_6.exe.config
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\jagged_array_6\bin\Debug\jagged_array_6.exe
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\jagged_array_6\bin\Debug\jagged_array_6.pdb
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\jagged_array_6\obj\Debug\jagged_array_6.csproj.AssemblyReference.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\jagged_array_6\obj\Debug\jagged_array_6.csproj.CoreCompileInputs.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\jagged_array_6\obj\Debug\jagged_array_6.exe
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\jagged_array_6\obj\Debug\jagged_array_6.pdb

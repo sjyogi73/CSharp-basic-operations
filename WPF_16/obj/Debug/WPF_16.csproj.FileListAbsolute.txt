@@ -1,0 +1,28 @@
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\bin\Debug\WPF_16.exe.config
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\bin\Debug\WPF_16.exe
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\bin\Debug\WPF_16.pdb
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\WPF_16.csproj.AssemblyReference.cache
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\MainWindow.g.cs
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\App.g.cs
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\WPF_16_MarkupCompile.cache
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\MainWindow.baml
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\WPF_16.g.resources
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\WPF_16.Properties.Resources.resources
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\WPF_16.csproj.GenerateResource.cache
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\WPF_16.csproj.CoreCompileInputs.cache
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\WPF_16.exe
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\WPF_16\obj\Debug\WPF_16.pdb
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\bin\Debug\WPF_16.exe.config
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\bin\Debug\WPF_16.exe
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\bin\Debug\WPF_16.pdb
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\WPF_16.csproj.AssemblyReference.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\MainWindow.baml
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\MainWindow.g.cs
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\App.g.cs
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\WPF_16_MarkupCompile.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\WPF_16.g.resources
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\WPF_16.Properties.Resources.resources
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\WPF_16.csproj.GenerateResource.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\WPF_16.csproj.CoreCompileInputs.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\WPF_16.exe
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\WPF_16\obj\Debug\WPF_16.pdb

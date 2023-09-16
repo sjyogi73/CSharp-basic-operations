@@ -1,0 +1,32 @@
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\bin\Debug\Resourses\studentsDB.mdf
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\bin\Debug\Resourses\studentsDB_log.ldf
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\bin\Debug\dbconnection_13.exe.config
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\bin\Debug\dbconnection_13.exe
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\bin\Debug\dbconnection_13.pdb
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.csproj.AssemblyReference.cache
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.Form1.resources
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.Properties.Resources.resources
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.csproj.GenerateResource.cache
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.csproj.CoreCompileInputs.cache
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.exe
+D:\22pca004 C# lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.pdb
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.csproj.AssemblyReference.cache
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.Form1.resources
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.Properties.Resources.resources
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.csproj.GenerateResource.cache
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.csproj.CoreCompileInputs.cache
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.exe
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.pdb
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\dbconnection_13\bin\Debug\dbconnection_13.exe.config
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\dbconnection_13\bin\Debug\dbconnection_13.exe
+D:\22pca004 C# lab\MCA_C-_Lab\Lab Programs\dbconnection_13\bin\Debug\dbconnection_13.pdb
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\dbconnection_13\bin\Debug\dbconnection_13.exe.config
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\dbconnection_13\bin\Debug\dbconnection_13.exe
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\dbconnection_13\bin\Debug\dbconnection_13.pdb
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.csproj.AssemblyReference.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.Form1.resources
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.Properties.Resources.resources
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.csproj.GenerateResource.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.csproj.CoreCompileInputs.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.exe
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\dbconnection_13\obj\Debug\dbconnection_13.pdb

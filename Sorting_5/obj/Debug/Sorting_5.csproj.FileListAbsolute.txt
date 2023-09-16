@@ -1,0 +1,14 @@
+D:\22pca004 C# lab\Lab Programs\Sorting_5\bin\Debug\Sorting_5.exe.config
+D:\22pca004 C# lab\Lab Programs\Sorting_5\bin\Debug\Sorting_5.exe
+D:\22pca004 C# lab\Lab Programs\Sorting_5\bin\Debug\Sorting_5.pdb
+D:\22pca004 C# lab\Lab Programs\Sorting_5\obj\Debug\Sorting_5.csproj.AssemblyReference.cache
+D:\22pca004 C# lab\Lab Programs\Sorting_5\obj\Debug\Sorting_5.csproj.CoreCompileInputs.cache
+D:\22pca004 C# lab\Lab Programs\Sorting_5\obj\Debug\Sorting_5.exe
+D:\22pca004 C# lab\Lab Programs\Sorting_5\obj\Debug\Sorting_5.pdb
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Sorting_5\bin\Debug\Sorting_5.exe.config
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Sorting_5\bin\Debug\Sorting_5.exe
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Sorting_5\bin\Debug\Sorting_5.pdb
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Sorting_5\obj\Debug\Sorting_5.csproj.AssemblyReference.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Sorting_5\obj\Debug\Sorting_5.csproj.CoreCompileInputs.cache
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Sorting_5\obj\Debug\Sorting_5.exe
+C:\Git\MCA_Csharp_Lab-main\Lab Programs\Sorting_5\obj\Debug\Sorting_5.pdb
