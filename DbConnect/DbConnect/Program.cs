@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace dbconnection_13
+namespace DbConnect
 {
     static class Program
     {

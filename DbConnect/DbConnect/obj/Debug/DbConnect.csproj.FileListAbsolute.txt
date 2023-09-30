@@ -1,0 +1,9 @@
+C:\Users\MCA-19\source\repos\DbConnect\DbConnect\bin\Debug\DbConnect.exe.config
+C:\Users\MCA-19\source\repos\DbConnect\DbConnect\bin\Debug\DbConnect.exe
+C:\Users\MCA-19\source\repos\DbConnect\DbConnect\bin\Debug\DbConnect.pdb
+C:\Users\MCA-19\source\repos\DbConnect\DbConnect\obj\Debug\DbConnect.Form1.resources
+C:\Users\MCA-19\source\repos\DbConnect\DbConnect\obj\Debug\DbConnect.Properties.Resources.resources
+C:\Users\MCA-19\source\repos\DbConnect\DbConnect\obj\Debug\DbConnect.csproj.GenerateResource.cache
+C:\Users\MCA-19\source\repos\DbConnect\DbConnect\obj\Debug\DbConnect.csproj.CoreCompileInputs.cache
+C:\Users\MCA-19\source\repos\DbConnect\DbConnect\obj\Debug\DbConnect.exe
+C:\Users\MCA-19\source\repos\DbConnect\DbConnect\obj\Debug\DbConnect.pdb
